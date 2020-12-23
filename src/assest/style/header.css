@@ -1,0 +1,25 @@
+.cart_list {
+  position: fixed;
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  list-style: none;
+  overflow: scroll;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  padding-left: 0px;
+  background-color: rgba(117, 115, 113, 0.966);
+  width: 100vw;
+  height: 100vh;
+  transition: 0.5s ease-in-out;
+  transform: translateX(0vw);
+  z-index: 10;
+  right: 1vw;
+  margin-top: 0.6vh;
+}
+.cart_list.close {
+  display: none;
+
+  transform: translateX(100vw);
+}
