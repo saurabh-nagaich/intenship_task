@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2ccf350.chunk.css",
+    "main.js": "/static/js/main.9f3eae89.chunk.js",
+    "main.js.map": "/static/js/main.9f3eae89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3cb603c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3cb603c4.js.map",
+    "static/js/2.1e084680.chunk.js": "/static/js/2.1e084680.chunk.js",
+    "static/js/2.1e084680.chunk.js.map": "/static/js/2.1e084680.chunk.js.map",
+    "static/js/3.5728e5c2.chunk.js": "/static/js/3.5728e5c2.chunk.js",
+    "static/js/3.5728e5c2.chunk.js.map": "/static/js/3.5728e5c2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e2ccf350.chunk.css.map": "/static/css/main.e2ccf350.chunk.css.map",
+    "static/js/2.1e084680.chunk.js.LICENSE.txt": "/static/js/2.1e084680.chunk.js.LICENSE.txt",
+    "static/media/1.53606d78.png": "/static/media/1.53606d78.png",
+    "static/media/2.96d15a81.png": "/static/media/2.96d15a81.png",
+    "static/media/3.e83a9b9b.png": "/static/media/3.e83a9b9b.png",
+    "static/media/facebook.c976f6e6.png": "/static/media/facebook.c976f6e6.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.faed5c3d.eot",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings.191ce105.png",
+    "static/media/kindle.84da06c3.png": "/static/media/kindle.84da06c3.png",
+    "static/media/logo.00b19919.png": "/static/media/logo.00b19919.png",
+    "static/media/payment_methods.4d63ba29.png": "/static/media/payment_methods.4d63ba29.png",
+    "static/media/twitter.29dad246.png": "/static/media/twitter.29dad246.png",
+    "static/media/youtube.041a98e2.png": "/static/media/youtube.041a98e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb603c4.js",
+    "static/js/2.1e084680.chunk.js",
+    "static/css/main.e2ccf350.chunk.css",
+    "static/js/main.9f3eae89.chunk.js"
+  ]
+}
